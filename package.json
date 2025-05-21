@@ -6,7 +6,6 @@
   "name": "task-nest",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "dev": "npx @tailwindcss/cli -i ./src/assets/css/style.css -o ./public/css/style.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
